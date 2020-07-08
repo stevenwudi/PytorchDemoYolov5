@@ -1,0 +1,22 @@
+{
+  "buildFiles": [
+    "D:\\Github\\android-demo-app\\PyTorchDemoApp\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "E:\\Android\\Sdk\\ndk\\21.0.6113669\\build\\cmake\\android.toolchain.cmake",
+    "E:\\Android\\Sdk\\ndk\\21.0.6113669\\build\\cmake\\platforms.cmake"
+  ],
+  "cleanCommands": [
+    "E:\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Github\\android-demo-app\\PyTorchDemoApp\\app\\.cxx\\cmake\\release\\x86\" clean"
+  ],
+  "buildTargetsCommand": "E:\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"D:\\Github\\android-demo-app\\PyTorchDemoApp\\app\\.cxx\\cmake\\release\\x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "yolov5-Release-x86": {
+      "artifactName": "yolov5",
+      "buildCommand": "E:\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Github\\android-demo-app\\PyTorchDemoApp\\app\\.cxx\\cmake\\release\\x86\" yolov5",
+      "abi": "x86",
+      "output": "D:\\Github\\android-demo-app\\PyTorchDemoApp\\app\\build\\intermediates\\cmake\\release\\obj\\x86\\libyolov5.so",
+      "runtimeFiles": [
+        "D:\\Github\\android-demo-app\\PyTorchDemoApp\\app\\src\\main\\cpp\\ncnn\\x86\\libncnn.a"
+      ]
+    }
+  }
+}

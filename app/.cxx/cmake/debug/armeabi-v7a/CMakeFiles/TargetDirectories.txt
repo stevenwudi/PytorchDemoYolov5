@@ -1,0 +1,3 @@
+D:/Github/android-demo-app/PyTorchDemoApp/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+D:/Github/android-demo-app/PyTorchDemoApp/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/yolov5.dir
+D:/Github/android-demo-app/PyTorchDemoApp/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/edit_cache.dir

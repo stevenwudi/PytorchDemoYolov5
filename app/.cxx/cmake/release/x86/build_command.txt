@@ -1,0 +1,21 @@
+Executable : E:\Android\Sdk\cmake\3.10.2.4988404\bin\cmake.exe
+arguments : 
+-HD:\Github\android-demo-app\PyTorchDemoApp\app\src\main\cpp
+-DCMAKE_FIND_ROOT_PATH=D:\Github\android-demo-app\PyTorchDemoApp\app\.cxx\cmake\release\prefab\x86\prefab
+-DCMAKE_BUILD_TYPE=Release
+-DCMAKE_TOOLCHAIN_FILE=E:\Android\Sdk\ndk\21.0.6113669\build\cmake\android.toolchain.cmake
+-DANDROID_ABI=x86
+-DANDROID_NDK=E:\Android\Sdk\ndk\21.0.6113669
+-DANDROID_PLATFORM=android-24
+-DCMAKE_ANDROID_ARCH_ABI=x86
+-DCMAKE_ANDROID_NDK=E:\Android\Sdk\ndk\21.0.6113669
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=D:\Github\android-demo-app\PyTorchDemoApp\app\build\intermediates\cmake\release\obj\x86
+-DCMAKE_MAKE_PROGRAM=E:\Android\Sdk\cmake\3.10.2.4988404\bin\ninja.exe
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_SYSTEM_VERSION=24
+-BD:\Github\android-demo-app\PyTorchDemoApp\app\.cxx\cmake\release\x86
+-GNinja
+jvmArgs : 
+
+Build command args:

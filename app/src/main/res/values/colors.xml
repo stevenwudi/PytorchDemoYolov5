@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ed4b2b</color>
+    <color name="colorPrimaryDark">#812ce4</color>
+    <color name="colorAccent">#cb2f8f</color>
+    <color name="colorFourth">#2f003f</color>
+    <color name="colorFiFth">#3f003f</color>
+
+    <color name="textColor">@android:color/white</color>
+
+    <color name="top1">@color/colorPrimary</color>
+    <color name="top2">@color/colorAccent</color>
+    <color name="top3">@color/colorPrimaryDark</color>
+    <color name="top4">@color/colorFourth</color>
+    <color name="top5">@color/colorFiFth</color>
+
+    <color name="nlpPrimaryColor">#812ce5</color>
+</resources>

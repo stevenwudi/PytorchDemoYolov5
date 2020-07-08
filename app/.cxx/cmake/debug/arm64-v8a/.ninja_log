@@ -1,0 +1,8 @@
+# ninja log v5
+1	999	615822194	CMakeFiles/yolov5.dir/jni_interface.cpp.o	353f1fbb375ced25
+4	1217	615822194	CMakeFiles/yolov5.dir/YoloV5.cpp.o	7342997831377e12
+1217	1712	615822195	D:/Github/android-demo-app/PyTorchDemoApp/app/build/intermediates/cmake/debug/obj/arm64-v8a/libyolov5.so	6161d6f5ce9458ea
+3	938	615822348	CMakeFiles/yolov5.dir/jni_interface.cpp.o	353f1fbb375ced25
+938	1372	615822349	D:/Github/android-demo-app/PyTorchDemoApp/app/build/intermediates/cmake/debug/obj/arm64-v8a/libyolov5.so	6161d6f5ce9458ea
+3	1180	615822606	CMakeFiles/yolov5.dir/jni_interface.cpp.o	353f1fbb375ced25
+1180	1619	615822607	D:/Github/android-demo-app/PyTorchDemoApp/app/build/intermediates/cmake/debug/obj/arm64-v8a/libyolov5.so	6161d6f5ce9458ea

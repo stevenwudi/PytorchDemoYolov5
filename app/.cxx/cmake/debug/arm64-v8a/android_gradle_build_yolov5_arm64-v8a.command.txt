@@ -1,0 +1,7 @@
+Executable : E:\Android\Sdk\cmake\3.10.2.4988404\bin\ninja.exe
+arguments : 
+-C
+D:\Github\android-demo-app\PyTorchDemoApp\app\.cxx\cmake\debug\arm64-v8a
+yolov5
+jvmArgs : 
+
